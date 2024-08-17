@@ -45,3 +45,7 @@ To install the LFI Pattern Detector, ensure you have Go installed and then run:
     Detected patterns in http://example.com/vulnerable.php?file=../../../../../../../../../../../../../../../etc/passwd:
     
     - root:- root:
+
+## Disclaimer
+
+This tool is intended for educational purposes and for use in security assessments where you have explicit permission to test.
