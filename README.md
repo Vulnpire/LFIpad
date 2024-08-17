@@ -33,7 +33,7 @@ To install the LFI Pattern Detector, ensure you have Go installed and then run:
     Multiple URLs via stdin:
     Pipe a list of URLs into the tool using stdin.
 
-    cat urls.txt | ./lfipad
+    cat urls.txt | ./LFIpad
     
     Custom Timeout:
     Set a custom request timeout with the -timeout flag.
